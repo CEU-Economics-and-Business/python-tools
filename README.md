@@ -10,4 +10,4 @@ Please use this distribution even if you have a different version pre-installed 
 
 | Name | Link | Costs | Notes |
 |---|---|---|---|
-| GitHub Codespaces | https://docs.github.com/codespaces | [$0.09/core-hour](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#pricing-for-paid-usage) | |
+| GitHub Codespaces | https://docs.github.com/codespaces | [$0.09/core-hour](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#pricing-for-paid-usage) | Jupyter is available by selecting "Open in JupyterLab" or adding `?editor=jupyter` to the end of the URL. See https://github.blog/changelog/2022-11-09-using-codespaces-with-jupyterlab-public-beta/ |
