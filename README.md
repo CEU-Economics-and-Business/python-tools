@@ -8,8 +8,11 @@ Please use this distribution even if you have a different version pre-installed 
 
 ## Cloud environments
 
-| Name | Link | Costs | Notes |
-|---|---|---|---|
-| GitHub Codespaces | https://docs.github.com/codespaces | [$0.09/core-hour](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#pricing-for-paid-usage) | Jupyter is available by selecting "Open in JupyterLab" or adding `?editor=jupyter` to the end of the URL. See [blog post](https://github.blog/changelog/2022-11-09-using-codespaces-with-jupyterlab-public-beta/). Costs can be [centralized by organization](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/choosing-who-owns-and-pays-for-codespaces-in-your-organization). Hosted in Docker containers, does not seem to have GPUs. Directly linked to a repo. |
-| Google Colab | https://colab.google/ | Starts free, [€0.12/compute-unit](https://colab.research.google.com/signup/pricing) | Starts immediately with Jupyter Notebook. Has variable explorer. Has GPU. |  
-| Replit | | [Free for edu institutions](https://replit.com/pricing) | Does not seem to include Jupyter |
+| Name | Link | Costs | Class management | Jupyter | Notes |
+|---|---|---|---|---|---|
+| GitHub Codespaces | https://docs.github.com/codespaces | [$0.09/core-hour](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#pricing-for-paid-usage) | Can be combined with GitHub Classroom. | Jupyter is available by selecting "Open in JupyterLab" or adding `?editor=jupyter` to the end of the URL. See [blog post](https://github.blog/changelog/2022-11-09-using-codespaces-with-jupyterlab-public-beta/). | Costs can be [centralized by organization](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/choosing-who-owns-and-pays-for-codespaces-in-your-organization). Hosted in Docker containers, does not seem to have GPUs. Directly linked to a repo. |
+| Google Colab | https://colab.google/ | Starts free, [€0.12/compute-unit](https://colab.research.google.com/signup/pricing) Compute units are unclear. | ? | Starts immediately with Jupyter Notebook. | Has variable explorer. Has GPU. |  
+| Replit | https://replit.com/ | [Free for edu institutions](https://replit.com/pricing) | There are teams to which it is easy to invite students and score their assignments. | No | |
+| Hex | https://hex.tech/ | ? | ? | ? | ? |
+| Deepnote | https://deepnote.com/home | ? | ? | ? | ? |
+| Binder | https://mybinder.org/ | ? | ? | ? | ? |
