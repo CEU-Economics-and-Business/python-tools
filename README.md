@@ -20,3 +20,4 @@ The language is Python 3.10 (preferably 3.11 to match the recommended Anaconda d
 | Hex | https://hex.tech/ | ? | ? | ? | ? |
 | Deepnote | https://deepnote.com/home | ? | ? | ? | ? |
 | Binder | https://mybinder.org/ | ? | ? | ? | ? |
+| Nuvolos | https://nuvolos.cloud/ | [€10/month](https://nuvolos.cloud/pricing) | ? | ? | ? |
